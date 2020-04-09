@@ -8,9 +8,9 @@ Extensive Lectures of Informations and Scientific Articles.
 4. Afficher les résumés automatiques en anglais et en français de ces articles
 
 # Parcours utilisateur
-1. Page Accueil : En savoir plus / Journaux
-2.1 En savoir plus = Page d'explication
-2.2 Journaux = Liste d'article+meta+résumés
+- Page Accueil : En savoir plus / Journaux
+- En savoir plus = Page d'explication
+- Journaux = Liste d'article+meta+résumés
 
 # Page 2.2
 Cette page est générée en HTML par le code python
